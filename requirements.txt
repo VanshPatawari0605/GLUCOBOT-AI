@@ -6,3 +6,4 @@ xgboost
 google-genai
 PyPDF2
 joblib
+matplotlib
