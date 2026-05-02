@@ -1,0 +1,9 @@
+streamlit
+scikit-learn
+numpy
+matplotlib
+joblib
+PyPDF2
+reportlab
+google-generativeai
+imbalanced-learn
