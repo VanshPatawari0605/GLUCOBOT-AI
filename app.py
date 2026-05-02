@@ -18,11 +18,11 @@ from reportlab.lib.units import inch
 from datetime import datetime
 from google import genai
 import os
-<<<<<<< HEAD
+
 client = genai.Client(api_key=os.getenv("GEMINI_KEY"))
-=======
+
 client = genai.Client(api_key="AIzaSyBMdpMoNcEt8YPTp5GsdDtaPSRsZQ2UIDU")
->>>>>>> 80a7396 (GlucoBot AI project)
+
 
 # ── Page Config ───────────────────────────────────────────────────────────────
 st.set_page_config(page_title="GlucoBot", page_icon="🧪", layout="centered")
