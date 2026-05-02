@@ -1,4 +1,5 @@
 # 🧠 GlucoBot — AI Diabetes Risk Assistant
+LIVE :https://glucobot-ai-w4zoycizaicvsdguszf5x5.streamlit.app/
 
 GlucoBot is an AI-powered diabetes risk prediction and health guidance web app.
 
